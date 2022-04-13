@@ -3,11 +3,16 @@
 
 #include<iostream>
 #include<cmath>
-#include <cstdlib> 
-#include <ctime> 
+#include<cstdlib> 
+	
+#include<ctime>
+	
 #include<stdlib.h>
+	
 #include<cstring>
+	
 using namespace std;
+	
 int main()
  {
 	srand(time(0));
