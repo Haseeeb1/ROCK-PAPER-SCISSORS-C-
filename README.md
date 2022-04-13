@@ -18,12 +18,19 @@ using namespace std;
 int main()
  {
 	srand(time(0));
+	
 	string a;
+	
 	cout<<"ENTER YOUR NAME : ";
+	
 	cin>>a;
+	
 	cout<<"**********WELCOME TO ROCK PAPER SCISSORS  "<<a<<"*********"<<endl;
+	
 	int n;
+	
 	cout<<a<<"  PLEASE ENTER NUMBER OF ROUNDS YOU WANT TO PLAY : \n";
+	
 	cin>>n;
 	
      char t1;   //p or s
