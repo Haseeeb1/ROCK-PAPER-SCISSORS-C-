@@ -1,8 +1,10 @@
 //# ROCK-PAPER-SCISSORS-C++-
 //This is a code for game of rock paper scissors in c++ programming language.
 
-#include<iostream>
-#include<cmath>
+#include <iostream>
+	
+#include <cmath>
+	
 #include<cstdlib> 
 	
 #include<ctime>
